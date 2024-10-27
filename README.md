@@ -3,6 +3,7 @@
 📚 Currently learning C++
 
 |Some stats| |
+|---------------|----------------|
 |![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aasorokina&layout=compact&theme=blueberry)|
 ![aasorokina's GitHub stats](https://github-readme-stats.vercel.app/api?username=aasorokina&show_icons=true&theme=blueberry)|
 <!---
