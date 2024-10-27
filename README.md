@@ -1,4 +1,4 @@
-👋 Hi, I’m Ann
+👋 Hi, I’m Ann  
 🐱‍💻 I’m currently studying at [School 21](https://21-school.ru/)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aasorokina&layout=compact&theme=blueberry)
