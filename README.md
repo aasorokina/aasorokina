@@ -1,6 +1,6 @@
-👋 Hi, I’m Ann, beginner backend developer  
-🐱‍💻 Now studying at [School 21](https://21-school.ru/)  
-📚 Currently learning C++
+👋 Hi there, I’m Ann  
+🐱‍💻 C++ developer  
+📚 [School 21](https://21-school.ru/) student  
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aasorokina&layout=compact&theme=blueberry)
 <!---
