@@ -1,8 +1,8 @@
-👋 Hi there, I’m Ann  
+### 👋 Hi there, I’m Ann  
 👩‍💻 C++ developer  
 📚 [School 21](https://21-school.ru/) student  
 
-Languages and tools:  
+### Languages and tools:  
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white)
